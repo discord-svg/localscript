@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/discord-svg/localscript/refs/heads/main/gameui.lua"))()
+local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/discord-svg/localui/refs/heads/main/local.lua"))()
 
 local Window = OrionLib:MakeWindow({
     Name = "Scarlet",
